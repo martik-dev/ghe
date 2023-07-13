@@ -1,1 +1,3 @@
 ﻿/vendor
+/node_modules
+/node-pdf/node_modules

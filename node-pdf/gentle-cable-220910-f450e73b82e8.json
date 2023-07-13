@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gentle-cable-220910",
+  "private_key_id": "f450e73b82e8c530d0a67e5c642e16002ebcc0ee",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCuVCUikrKmPUGu\npfJ20/7GDJp1A1ZwzZctFnqUnAEQnmlCbYDupq89i2iEHp4vjxNS+N7DRjtcZvoC\nYoe7pnrpP+HjqYsL9Ewf/F1h3WQQ0HvWrCbZ5JLuxGbVMFvKx8z9NBfFtOu+/qJO\nUAW206yKXObuyrcuEkKcqd1A+wukE4KTMh3YOJdjMXEKKazUVwpAAnVBRlQ3lfJV\nNFxRNgkT/pGMOOrXYjBLO3+hMpnDzH93oIvoeVUYDVbIaali1/SBAx9+DRMf1sTF\nY92n04OGIibq1/IX2FdLTdSrhPEMz0d5NXkPn2mN5lwvXzEuwwBvQtXnIclHUZkO\ny6PjyvuvAgMBAAECggEAO1ulZVdEAzy6X6hbncBjcLYb5ZnkVfZ68jxEMtPHvQvj\nVV4J17jj1HXieZIfVJxH/SmGWEFStwzNNgCsrOVr1n4NAULaeJCPVxjMByWmC9+h\nOyBU/j5JFYnEZfTYXHyZvOF+8q++0cLMKxQuTelXR6mIbGiT5NkM22EvWA/jD9OP\nr7CF5B16+IlAEEmx/dQSDEDHpv4WCARQFWUHan/i8gxsx9TZDm+UFvBSZ5MyaqtK\ni1Os+iK9t/QMAE35UujrgmdmmVVB9ppoWe09Wp2YP3CIcv2VjTL9ZvpJWVTRBwNN\nEhQBGEQJpc4kC1YoDzOJTnoaDVNc4v3qqwJvUroX4QKBgQDxUp/1zf2eoajx8fBn\ny2P9ujSVce6pHnMVm11RIbCPT0DD6T7Ia0ZgofXyA8hCZn2tpppXB+evR6ZCcF8k\nuPXuHXiW8cMMm8I6p2xJxt71Jr/5IRwSiAaxF14CHbHHCYfymFPiVT5e5uvmjY9z\naqXPBM6wIoFkgskTORmNJZna3wKBgQC47m2iUFUGG/z6MhK4XpaELznofEakuuCf\nAmZYCuwCGo9azET60T1Kzu4NL5YG8lKIu2t0st4H2MHNJ80Z0FK420yqD6KKclzw\nw/7/M7FUyEClrU49WUY7uwwe0y7s5DJqvWuJ8ezsBgb0UCOnuVubXz2jMvvBSUGe\nHE4mymHJMQKBgQDhaWxBDch5BEfqtzL3wOQFfIjhjyp+jhKxfA4OWomxUzYLyTL7\nwjhayu4QwbetTk7WhWhlIt0mvKZwKMa2Zo5RfPXHCMxIWrVyVDCyOTDJjQiEjIjM\nRoL5p/oHv/TvFdgGooK4RyebPdfb4x67kEKQvMzTeWejmwZ3Dj7vuM+dwQKBgDKw\nD1a85AEPrNA650yniGPkud+SKJ7AJg8PTlP1cmjFNOOzN3jz3vPhMfhlQZ7Xzm1x\nyWssF5VZAQ2lSh84LWRDn4jBTlDaNcU8Q2lZltJhLO78SISiMpDunMzaH3OIvJTr\nJE2kBMdQg5l1WcCAGq7EdRWFROHenWCj63vQXusRAoGBANUgwaQN3WqkK+HYJAT8\nxs5Q+vP7YUkKoLJCYtT2YSbGXe8UZAPu/DpaeioJfcNMpNVgz7X7AkdaWR8enmlq\nmk/3R5rqGSE3V4aSuD4Mtmr4mLu+xz0kRQi7QwO026KlochUtT0HLr5+Y2a4CKWB\njjLiSD106Ii92FAtfSSVYS76\n-----END PRIVATE KEY-----\n",
+  "client_email": "ghe-pdf-reader@gentle-cable-220910.iam.gserviceaccount.com",
+  "client_id": "104744232518398786314",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ghe-pdf-reader%40gentle-cable-220910.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gentle-cable-220910",
+  "private_key_id": "3608b9afb3519e2ea7f16dec46fe4b1e61f0249f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCiKkJZ9b3ZM2k7\nLocKlCUWnRU212d63duCsqYpDiEOThfYVoi7GoePjeknOiXo5wD+8PfWqh/n2fas\nnwPoO1/pzGTn8Iw+YNYi7EQqDh29QNpjxVmDZayaSNhlatii1Pzv4Y950zQCrw/K\naryKEem0Szy1OVneDa7eyltksX5OMRcAf2ST1kvHJXnEBg+ebr4VGTW2G9axj2ZW\nZIvEyLCmHhNxtwlpUQRxNEjsnvUMFw3LdsNzmzLC+F99l4nvhdPajG9KCh58zJoV\n0pxDdqhWGjOa/2m69zUFw76RbNlS4R/5MHDz9f4hqqfqaFDGwHU0s3cAGrwwbJaL\na6I3FmzrAgMBAAECggEAAWDUkYkqJOdv9IXPtgJOUmPhY0bvZTbvf6vfB6hMFaAK\nSddqcBSopEqzeZbf7ZvRAVmw8Y0emkza8NqlINsoVIddMC92Ma2HBGL3rVfTXuFn\nOcPan+hEUEdgN3RyBOhEghFrs8Bcx80PGExR7+Z5EwQ0ruGe5uk83D3iCvgLN8Tl\nkJdeDevFmZVlZjSSCt8EqjR6dH7nY9D9N6p6YqGWeXGc3gjWnewjVBYL0FivCM+l\nkJTXIEU4mwvnacMCP81LnBDossoeKSeP575M5OSqo7haAoZT8BJAp8ai7LzvY0ar\no9mvmZDyeY5DrSaJ1XPjT7qJfgoP0lMajXvVlGAycQKBgQDc/YQ2T2nW4vs4xn9O\nLO4WXZ/57NYYywoVtwGNTM1qkapwEvh8QVFbpyPF+g3sXpB0pP78p6SQ+VBawm2v\nD/Yewtqxt2Bds+pnfC2zFf0F7oC8j/LKM9NG2dXYA17B2HSik3U8eAvpjD95oTXO\n0C44lV3aT4IM3f3tgI6zsDtrmQKBgQC72wbVblPbre75A/mLAcpnup//IVoEWT9w\nfm9hO8kg1l1vIyGG1Ow9mSyX6K+nA55TL3lKMWBl6oN/mWsdJLYgA7FjoP7Nh0mU\n0LPI6pMgnkvqdftnu3KmACH5OgMA3Er6K6vUxTMjhP4l0oU+Z8MQN4iG0s/mwbDm\nXAkGVGbPIwKBgQCnCPhmFKBrTCWXRHH1JQDQ5vOEdP9evhlhUHJb2zFo27F4BN7N\nDJHyNONVQSxE/TUy9YPGdPBupAOYll1RdT8TATVMHs84BEWo8rOYKYaWdS/ZVvSs\n4X9QjlaUb/evjWybddmnWxWl8dwIk1GYgMJvAnduC6rBDwpf+kvihdJkAQKBgEQg\n8yGEmbUaJ4j4ABCB3b4w2MXWeqcJFxDdSdehrxfRpqEfxJD5t5O/cYTGRq3zif/x\nP7PApI1Rt88W/Nnc7pA9xp+zS7WOUwk9h3ZeXG1/+1hU4ZCFUtcRRUD14RD209pW\n7EKGIj3HhcSBzQEM8Jl5CnKbEftGU7m3ty4sffyxAoGAZHDJBExY1zldXkpfmgrw\njq502ZC5Xaqu+sNuAm+v16IA+xL3nKIo9n+cq6RYo7QUKqk/8Syatb4EZZgLqy5x\ndnWVDJSsBPIGEklAmVrT7qL3IVjtBER7nxIaf3HVOt70v1Q0Ns/fDUJ7QDJ+xgFy\naA8di+5sRL6QICrs7AoqYEQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "account-2@gentle-cable-220910.iam.gserviceaccount.com",
+  "client_id": "101438329226485794870",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/account-2%40gentle-cable-220910.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
